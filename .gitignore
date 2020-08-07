@@ -4,10 +4,6 @@
 /node_modules
 /.pnp
 .pnp.js
-/pages/landing
-/src/pages/teacherForm
-/src/pages/teacherList
-
 
 # testing
 /coverage
