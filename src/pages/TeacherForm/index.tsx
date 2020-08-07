@@ -5,7 +5,7 @@ import Input from '../../components/Inputs';
 import './styles.css'
 
 import warningIcon from '../../assets/images/icons/warning.svg'
-import Textarea from '../../components/TextArea';
+import Textarea from '../../components/Textarea';
 
 const TeacherForm: React.FC = () => {
     return (
